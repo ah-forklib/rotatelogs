@@ -7,7 +7,7 @@ package rotatelogs
 import (
 	"errors"
 	"fmt"
-	"github.com/lestrrat-go/strftime"
+	"github.com/ah-forklib/strftime"
 	"io"
 	"os"
 	"path/filepath"

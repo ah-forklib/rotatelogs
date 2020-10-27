@@ -1,8 +1,8 @@
 package rotatelogs
 
 import (
+	"errors"
 	"fmt"
-	"github.com/pkg/errors"
 	"os"
 	"path"
 	"reflect"

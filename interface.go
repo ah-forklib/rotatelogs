@@ -1,7 +1,7 @@
 package rotatelogs
 
 import (
-	"github.com/lestrrat-go/strftime"
+	"github.com/ah-forklib/strftime"
 	"os"
 	"sync"
 	"time"
